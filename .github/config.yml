@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+# Update OWNER in the URL to your GitHub username or org
+contact_links:
+  - name: 💬 Discussions (questions, tips, feedback)
+    url: https://github.com/OWNER/elefanta/discussions
+    about: Use Discussions for general chat and how-to questions
