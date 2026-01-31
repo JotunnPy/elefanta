@@ -1,6 +1,31 @@
-# Elefanta
+<div align="center">
 
-**AI productivity assistant for Windows** — file search, AI chat, screen analysis, calendar, collaboration, and automatic context capture in one desktop app.
+**AI-powered productivity assistant for your desktop**
+
+[![Electron](https://img.shields.io/badge/Electron-30-47848F?logo=electron)](https://www.electronjs.org/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
+[![Bun](https://img.shields.io/badge/Bun-Backend-F9F1E1?logo=bun)](https://bun.sh/)
+[![Elysia](https://img.shields.io/badge/Elysia-API-8B5CF6)](https://elysiajs.com/)
+
+</div>
+
+---
+
+Elefanta is a desktop app that combines AI chat, semantic file search, calendar management, and proactive screen analysis. It learns from your files, captures context from your screen, and helps you stay organized—all from a sleek, always-available launcher.
+
+## ✨ Features
+
+| Feature               | Description                                                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **🤖 AI Chat**        | Agentic assistant with tools for calendar, file search, and actions. Supports multiple models (Gemini, Cohere, Mistral, OpenRouter). |
+| **🔍 File Search**    | Semantic search across local and cloud documents—PDFs, Office files, images, and more.                                               |
+| **📸 Think For Me**   | Captures your screen and proactively analyzes tasks, meetings, and info—creates calendar events, searches files, takes actions.      |
+| **📅 Calendar**       | Create, edit, delete events with recurrence (daily, weekly, monthly). Day and month views.                                           |
+| **👁️ GodsEye**        | Periodic screen captures for context. View logs and filter by collaborator.                                                          |
+| **📚 Knowledge Base** | Persistent facts and preferences the AI remembers across sessions.                                                                   |
+| **🤝 Collaborations** | Invite collaborators, share context, and see their GodsEye logs.                                                                     |
+| **⚡ Smart Launcher** | AI-powered suggestions based on your query.                                                                                          |
 
 ---
 
