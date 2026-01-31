@@ -1,3 +1,7 @@
+# Elefanta
+
+![Elefanta](assets/cover.png)
+
 <div align="center">
 
 **AI-powered productivity assistant for your desktop**
